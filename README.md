@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**kq102/kq102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there I am Kyle from centre of the universe, Nottingham.
 
 - 🔭 I’m currently working on **le c++ project** ...
 - 🌱 I’m currently learning **discord chungus bot** ...
@@ -12,4 +7,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about **anything** ... within reason
 - 📫 How to reach me: @KQ1O2 on twatter
 - ⚡ Fun fact: **engineer gaming** ...
+<!--
+**kq102/kq102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
