@@ -1,8 +1,8 @@
-### Hi there! I am Kyle from centre the of the universe, Nottingham.
+### Ahoy! My name is Kyle, I am from centre the of the universe, Nottingham.
 
 - 🔭 I’m currently working on **Improving my stops map and bus live tracking apps** ...
 - 🌱 I’m currently learning about **Docker compose, vercel, and mapbox** ...
-- 💬 Ask me about **anything** ... within reason
+- 💬 Ask me about **python and APIs**
 - 📫 How to reach me: kq102 on Discord
 - ⚡ Fun fact: **book barcodes use a secret country called bookland** ...
 
